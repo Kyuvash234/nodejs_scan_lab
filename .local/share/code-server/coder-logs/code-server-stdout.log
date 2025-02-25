@@ -1,0 +1,40 @@
+[2024-06-18T10:47:15.168Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-06-18T10:47:15.169Z] info  Using user-data-dir /root/.local/share/code-server
+[2024-06-18T10:47:15.188Z] info  Using config file /root/.config/code-server/config.yaml
+[2024-06-18T10:47:15.188Z] info  HTTP server listening on http://127.0.0.1:8080/
+[2024-06-18T10:47:15.188Z] info    - Authentication is enabled
+[2024-06-18T10:47:15.188Z] info      - Using password from /root/.config/code-server/config.yaml
+[2024-06-18T10:47:15.188Z] info    - Not serving HTTPS
+[2024-06-18T10:47:15.189Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[2024-06-18T10:48:36.280Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2024-06-18T10:48:36.281Z] info  Using user-data-dir /root/.local/share/code-server
+[2024-06-18T10:48:36.297Z] info  Using config file /root/.config/code-server/config.yaml
+[2024-06-18T10:48:36.297Z] info  HTTP server listening on http://127.0.0.1:2059/
+[2024-06-18T10:48:36.297Z] info    - Authentication is disabled
+[2024-06-18T10:48:36.297Z] info    - Not serving HTTPS
+[2024-06-18T10:48:36.298Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[2025-01-14T07:31:40.382Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2025-01-14T07:31:40.383Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-01-14T07:31:40.423Z] info  Using config file /root/.config/code-server/config.yaml
+[2025-01-14T07:31:40.423Z] info  HTTP server listening on http://127.0.0.1:2059/
+[2025-01-14T07:31:40.423Z] info    - Authentication is disabled
+[2025-01-14T07:31:40.423Z] info    - Not serving HTTPS
+[2025-01-14T07:31:40.424Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[2025-02-25T19:28:19.865Z] info  code-server 4.89.1 effc6e95b4ad1c5ac5f9083ec06663ba4a2e005c
+[2025-02-25T19:28:19.866Z] info  Using user-data-dir /root/.local/share/code-server
+[2025-02-25T19:28:19.956Z] info  Using config file /root/.config/code-server/config.yaml
+[2025-02-25T19:28:19.958Z] info  HTTP server listening on http://127.0.0.1:2059/
+[2025-02-25T19:28:19.958Z] info    - Authentication is disabled
+[2025-02-25T19:28:19.958Z] info    - Not serving HTTPS
+[2025-02-25T19:28:19.959Z] info  Session server listening on /root/.local/share/code-server/code-server-ipc.sock
+[19:28:44] 
+
+
+
+
+[19:28:44] Extension host agent started.
+[19:28:44] Started initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[19:28:44] Completed initializing default profile extensions in extensions installation folder. file:///root/.local/share/code-server/extensions
+[19:28:52] [127.0.0.1][6b68f5b7][ManagementConnection] New connection established.
+[19:29:03] [127.0.0.1][eddc59da][ExtensionHostConnection] New connection established.
+[19:29:04] [127.0.0.1][eddc59da][ExtensionHostConnection] <1167> Launched Extension Host Process.
